@@ -1,0 +1,25 @@
+.btn p{
+    background-color: blue;
+    display:none;
+    width: 100px;
+    padding:30px;
+    border: none;
+    border-radius: 30px;
+    color:white;
+}
+.btn:hover p {
+    display: block;
+}
+.google a {
+    font-size: 20px;
+    font-weight: bolder;
+}
+a:hover{
+    color: green;
+}
+a:active{
+    color:red;
+}
+a:visited {
+    color:grey;
+}
